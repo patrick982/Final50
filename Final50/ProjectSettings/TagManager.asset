@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  - KingsGuard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Interactable
+  - Floor
+  - Wall
+  - TurnBasedBattle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 672222901
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 3791334795
+    locked: 0
+  - name: RPGCharacter
+    uniqueID: 1948212777
+    locked: 0
+  - name: RPGEffects
+    uniqueID: 1412480663
+    locked: 0
+  - name: BattleBG
+    uniqueID: 1629433235
+    locked: 0
+  - name: BattleChars
+    uniqueID: 1384293151
+    locked: 0
+  - name: BattleFG
+    uniqueID: 2437926377
+    locked: 0
